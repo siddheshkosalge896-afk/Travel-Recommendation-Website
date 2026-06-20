@@ -1,0 +1,34 @@
+{
+  "beaches": [
+    { "name": "Maldives Beach", "imageUrl": "images/beach1.jpeg", "description": "Crystal clear water and beautiful white sand atolls in the Indian Ocean.", "country": "Maldives" },
+    { "name": "Goa Beach", "imageUrl": "images/beach2.jpeg", "description": "India's most vibrant beach destination with golden sands and lively shacks.", "country": "India" },
+    { "name": "Bora Bora Beach", "imageUrl": "images/beach3.jpeg", "description": "Turquoise lagoons and overwater bungalows in French Polynesia.", "country": "French Polynesia" },
+    { "name": "Whitehaven Beach", "imageUrl": "images/beach4.jpeg", "description": "Pure white silica sand along Australia's Whitsunday Islands.", "country": "Australia" },
+    { "name": "Navagio Beach", "imageUrl": "images/beach5.jpeg", "description": "A secluded cove on Zakynthos, Greece, framed by dramatic limestone cliffs.", "country": "Greece" },
+    { "name": "Copacabana Beach", "imageUrl": "images/beach6.jpeg", "description": "Rio de Janeiro's iconic stretch of sand backed by lively boardwalk culture.", "country": "Brazil" },
+    { "name": "Radhanagar Beach", "imageUrl": "images/beach7.jpeg", "description": "Ranked Asia's best beach, this pristine shore on Havelock Island, Andaman, is famed for its turquoise waters and lush forest backdrop.", "country": "India" },
+    { "name": "Varkala Beach", "imageUrl": "images/beach8.jpeg", "description": "A stunning clifftop beach in Kerala with mineral springs, red laterite cliffs, and a serene Arabian Sea shoreline.", "country": "India" },
+    { "name": "Palolem Beach", "imageUrl": "images/beach9.jpeg", "description": "A crescent-shaped paradise in South Goa lined with swaying palms, calm waters, and colorful beach huts.", "country": "India" },
+    { "name": "Marina Beach", "imageUrl": "images/beach10.jpeg", "description": "The world's second longest urban beach stretching 13 km through Chennai, iconic for its golden sands and vibrant street life.", "country": "India" }
+  ],
+  "temples": [
+    { "name": "Golden Temple", "imageUrl": "images/temple1.jpeg", "description": "The holiest Sikh shrine in Amritsar, shimmering in gold and open to all faiths 24 hours a day.", "country": "India" },
+    { "name": "Meenakshi Temple", "imageUrl": "images/temple2.jpeg", "description": "A towering Dravidian masterpiece in Madurai adorned with thousands of colourful sculptures.", "country": "India" },
+    { "name": "Angkor Wat", "imageUrl": "images/temple3.jpeg", "description": "A vast 12th-century temple complex in Cambodia — the world's largest religious monument.", "country": "Cambodia" },
+    { "name": "Kinkaku-ji (Golden Pavilion)", "imageUrl": "images/temple4.jpeg", "description": "A Zen Buddhist temple in Kyoto whose top two floors are covered in real gold leaf.", "country": "Japan" },
+    { "name": "Borobudur", "imageUrl": "images/temple5.jpeg", "description": "The world's largest Buddhist temple, set among the volcanic hills of Java, Indonesia.", "country": "Indonesia" },
+    { "name": "Prambanan", "imageUrl": "images/temple6.jpeg", "description": "A soaring 9th-century Hindu temple complex near Yogyakarta, Indonesia.", "country": "Indonesia" },
+    { "name": "Tirupati Balaji Temple", "imageUrl": "images/temple7.jpeg", "description": "The richest and most visited temple on Earth, dedicated to Lord Venkateswara atop the hills of Tirumala, Andhra Pradesh.", "country": "India" },
+    { "name": "Somnath Temple", "imageUrl": "images/temple8.jpeg", "description": "One of the twelve Jyotirlinga shrines of Lord Shiva, standing majestically on the Arabian Sea coast of Gujarat.", "country": "India" },
+    { "name": "Kedarnath Temple", "imageUrl": "images/temple9.jpeg", "description": "A sacred Shiva temple at 3,583 m in the Himalayas, one of the holiest pilgrimage sites in Hinduism.", "country": "India" },
+    { "name": "Brihadeeswarar Temple", "imageUrl": "images/temple10.jpg", "description": "A UNESCO World Heritage 1,000-year-old Chola marvel in Thanjavur with a 66-metre vimana tower built without mortar.", "country": "India" }
+  ],
+  "countries": [
+    { "name": "Japan", "imageUrl": "images/country1.jpeg", "description": "Known for cutting-edge technology, ancient temples, and centuries of rich culture and tradition.", "country": "Japan" },
+    { "name": "Switzerland", "imageUrl": "images/country2.jpeg", "description": "Famous for the Alps, pristine lakes, chocolate, and some of Europe's most breathtaking scenery.", "country": "Switzerland" },
+    { "name": "Italy", "imageUrl": "images/country3.jpeg", "description": "Home to ancient ruins, Renaissance art, world-famous cuisine, and the romance of Venice and Rome.", "country": "Italy" },
+    { "name": "New Zealand", "imageUrl": "images/country4.jpeg", "description": "Dramatic landscapes spanning glaciers, fiords, volcanic peaks, and endless green coastline.", "country": "New Zealand" },
+    { "name": "India ", "imageUrl": "images/country.jpeg", "description": "India is globally renowned for its deep-rooted spirituality, vibrant cultural diversity, and iconic landmarks. ", "country": "India " },
+    { "name": "Australia ", "imageUrl": "images/country5.jpeg", "description": "Australians are famous for a laid-back, highly abbreviated slang style. They love shortening words and sentences to their absolute minimums, turning everyday phrases into quick, snappy, single-word exclamations.", "country": "Australia" }
+  ]
+}
